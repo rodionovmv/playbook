@@ -1,15 +1,5 @@
-# 8.2 описание Playbook по заданию
+# 8.3
 
-## GROUP VARS
-java_oracle_jdk_package - имя пакета установки Java
-java_jdk_version - используемая версия Java
-
-elastic_home - переменная домашнего каталога для Elasticsearch
-kibana_home - переменная для домашнего каталога для Kibana
-elastic_version - версия Elasticsearch
-kibana_version - версия Kibana
-
-## Описание Play 
 
 ### Install Java
  установлены тэги java для дальнейшего использования и отладки 

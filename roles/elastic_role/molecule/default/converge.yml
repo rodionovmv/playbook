@@ -1,0 +1,7 @@
+---
+- name: Converge
+  hosts: all
+  tasks:
+    - name: "Include netology.elastic_role"
+      include_role:
+        name: "netology.elastic_role"

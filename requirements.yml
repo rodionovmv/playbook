@@ -1,0 +1,13 @@
+---
+  - src: git@github.com:rodionovmv/kibana-role.git
+    scm: git
+    version: "1.0"
+    name: kibana_role 
+  - src: git@github.com:rodionovmv/elastic-role.git
+    scm: git
+    version: "1.0"
+    name: elastic_role
+  - src: git@github.com:rodionovmv/java-role.git
+    scm: git
+    version: "1.0"
+    name: java_role 
